@@ -15,8 +15,17 @@ My current project is **Constellation Transcript**, a lightweight Python tool th
 
 ## Current project
 
+
 ### Constellation Transcript
 
-A captions-to-text utility for YouTube with Android/Termux support and Linux development underway.
+**Constellation Transcript** is a lightweight Python tool that converts available
+YouTube captions into clean, verified plain-text transcripts.
 
-The project is designed to remain lightweight, understandable, and free from telemetry, remote administration, and unnecessary background services.
+- Android/Termux stable release available
+- Linux version under development
+- Local-first
+- Captions-only
+- No telemetry
+- MIT licensed
+
+[View Constellation Transcript](https://github.com/constellationgman/constellation-transcript)
