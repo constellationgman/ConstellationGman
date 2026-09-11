@@ -49,5 +49,11 @@ Development code remains private until it is ready for public release.
 I’m open to focused collaboration around local-first software, practical Python tools,
 Linux and Android utilities, and privacy-conscious development.
 
-For Constellation Transcript bugs, compatibility issues, or improvement ideas,
-please use the project’s GitHub Issues.
+- **Project bugs, compatibility issues, and feature ideas:** use the appropriate
+  GitHub repository's Issues section.
+- **Professional networking or collaboration inquiries:** contact me through
+  [LinkedIn](https://www.linkedin.com/in/glenn-humphrey-6b0460133).
+
+For privacy and security, I do not use public email or phone contact for this project.
+I will never ask contributors for passwords, authentication codes, payment, remote
+computer access, or other private credentials.
