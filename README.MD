@@ -43,3 +43,11 @@ Constellation Transcript for Linux is under active development.
 - 🎯 Linux 1.0 — First stable Linux release
 
 Development code remains private until it is ready for public release.
+
+## Contact and Collaboration
+
+I’m open to focused collaboration around local-first software, practical Python tools,
+Linux and Android utilities, and privacy-conscious development.
+
+For Constellation Transcript bugs, compatibility issues, or improvement ideas,
+please use the project’s GitHub Issues.
